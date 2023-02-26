@@ -13,7 +13,7 @@ Para executar este projeto, é necessário ter o MongoDB instalado em sua máqui
 
 1.  Clone este repositório:
 
-`git clone https://github.com/seu-usuario/mcdonalds-menu.git` 
+`git clone git@github.com:Matheus-Azevedo/Project-Mongodb-Commerce-Matheus-eduardo.git` 
 
 2.  Restaure o banco de dados commerce no MongoDB
 
